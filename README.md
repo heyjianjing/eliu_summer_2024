@@ -10,6 +10,5 @@ From linear regression to Bayesian kernel regression
 * Bayesian marginalization
 * Monte Carlo integration
 * Radial basis function (RBF kernel)
-* Eigendecomposition of kernel matrix
 * Virtual sample via eigendecomposition
 * Bayesian optimization
