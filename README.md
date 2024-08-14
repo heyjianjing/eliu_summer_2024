@@ -5,7 +5,7 @@ From linear regression to Bayesian kernel regression
 
 * Gradient descent
 * Taylor approximation
-* Laplace sampling
+* Laplace approximation
 * Metropolis sampling
 * Bayesian marginalization
 * Monte Carlo integration
