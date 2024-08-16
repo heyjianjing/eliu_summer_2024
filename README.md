@@ -1,7 +1,7 @@
 # eliu_summer_2024
 Mini-course for Elizabeth Liu, Summer 2024
 
-From linear regression to Bayesian kernel regression (focus on weight-space view)
+From linear regression to Bayesian kernel regression 
 
 * Gradient descent
 * Taylor approximation
@@ -12,3 +12,5 @@ From linear regression to Bayesian kernel regression (focus on weight-space view
 * Radial basis function (RBF kernel)
 * Virtual sample via eigendecomposition
 * Bayesian optimization
+
+Focus on `weight-space` view, so Bayesian kernel regression resembles Bayesian linear regression as much as possible
