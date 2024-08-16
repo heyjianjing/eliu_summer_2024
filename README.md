@@ -1,7 +1,7 @@
 # eliu_summer_2024
 Mini-course for Elizabeth Liu, Summer 2024
 
-From linear regression to Bayesian kernel regression
+From linear regression to Bayesian kernel regression (focus on weight-space view)
 
 * Gradient descent
 * Taylor approximation
