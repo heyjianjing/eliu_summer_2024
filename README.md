@@ -11,7 +11,7 @@ Linear case:
 * Monte Carlo integration (approximate Bayesian marginalization using Monte Carlo)
 
 Nonlinear case:
-* Radial basis function (RBF kernel) (enable capture of `local function behavior` through projection into feature space $\phi(x)$ )
+* Radial basis function (RBF kernel) (capture `local function behavior` through projection into feature space $\phi(x)$ )
 * Virtual sample via eigendecomposition (approximate $\phi(x)$ such that steps from linear case can be utilized)
 * Bayesian optimization (utilization of Bayesian kernel regression for optimization)
 
