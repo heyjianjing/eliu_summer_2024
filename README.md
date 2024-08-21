@@ -3,7 +3,7 @@ Mini-course for Elizabeth Liu, Summer 2024
 
 From linear regression to Bayesian kernel regression 
 
-Simple linear regression:
+Linear regression:
 * Define `loss function`
 * Gradient descent (find maximum-likelihood (ML) or maximum-a-posteriori (MAP) `estimate of model parameters`)
 * Adjust for `classification` tasks
