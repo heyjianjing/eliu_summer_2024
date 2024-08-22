@@ -4,9 +4,9 @@ Mini-course for Elizabeth Liu, Summer 2024
 From linear regression to Bayesian kernel regression 
 
 Linear regression:
-* Define `loss function` (define desired `behavior` of function we want to have)
+* Concept of `loss function` (desired `behavior` of function we want to have)
 * Gradient descent (find maximum-likelihood (ML) or maximum-a-posteriori (MAP) `estimate of model parameters`, based on training data)
-* Adjust for `classification` tasks
+* Adjust for `classification` tasks (squared loss and cross-entropy loss, sigmoid function)
 
 Bayesian linear regression:
 * Taylor approximation/Laplace method (approximate `posterior distribution of parameters`, so we can `sample` from it to get `model uncertainty`)
