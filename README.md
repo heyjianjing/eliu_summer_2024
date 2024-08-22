@@ -19,5 +19,6 @@ Bayesian kernel regression:
 * Virtual sample via eigendecomposition (approximate $\phi(x)$ such that concept from linear case can be `retained`)
 * Bayesian optimization (utilize Bayesian kernel regression for `optimization` of simple functions)
 
-Focus on `weight-space` view, so ideas in Bayesian linear regression can be retained for nonlinear case \
-Focus on `numerical` solutions to the extent possible
+Focus
+* `weight-space` view, so ideas in Bayesian linear regression can be retained for nonlinear case
+* `numerical` solutions to the extent possible
