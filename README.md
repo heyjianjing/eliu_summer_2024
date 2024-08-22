@@ -11,11 +11,11 @@ Linear regression:
 Bayesian linear regression:
 * Taylor approximation/Laplace method (approximate `posterior distribution of parameters`, so we can `sample` from it to get `model uncertainty`)
 * Metropolis sampling (another way to `sample` from posterior distribution of parameters using Metropolis algorithm, to avoid derivation in Laplace method)
-* Bayesian marginalization (obtain `posterior prediction mean and uncertainty` for testing data, considering all possible parameters)
+* Bayesian marginalization (obtain `posterior prediction mean and uncertainty` for testing data, accounting for all possible parameters)
 * Monte Carlo integration (approximate Bayesian marginalization using `Monte Carlo integration`)
 
 Bayesian kernel regression:
-* Radial basis function (RBF kernel) (capture `local function behavior` through projection of $x$ into feature space $\phi(x)$ )
+* Radial basis function (RBF kernel) (capture `local function behavior` through projection of $x$ into feature space $\phi(x)$, so we can better model nonlinearity)
 * Virtual sample via eigendecomposition (approximate $\phi(x)$ such that concept from linear case can be `retained`)
 * Bayesian optimization (utilize Bayesian kernel regression for `optimization` of simple functions)
 
