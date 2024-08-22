@@ -16,7 +16,7 @@ Bayesian linear regression:
 
 Bayesian kernel regression:
 * Radial basis function: capture `local function behavior` through projection of model input $x$ into feature space $\phi(x)$, so we can better model nonlinearity
-* Virtual sample via eigendecomposition: approximate $\phi(x)$ such that concept from linear case can be `retained`
+* Virtual sample via eigendecomposition: approximate $\phi(x)$ such that the concepts and steps from linear case can be (largely) `reused`
 * Bayesian optimization: utilize Bayesian kernel regression for `optimization` of (not-so-complicated) functions
 
 Focus
