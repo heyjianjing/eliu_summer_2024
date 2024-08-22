@@ -4,8 +4,8 @@ Mini-course for Elizabeth Liu, Summer 2024
 From linear regression to Bayesian kernel regression 
 
 Linear regression:
-* Define `loss function`
-* Gradient descent (find maximum-likelihood (ML) or maximum-a-posteriori (MAP) `estimate of model parameters`)
+* Define `loss function` (define desired `behavior` of function we want to have)
+* Gradient descent (find maximum-likelihood (ML) or maximum-a-posteriori (MAP) `estimate of model parameters`, based on training data)
 * Adjust for `classification` tasks
 
 Bayesian linear regression:
