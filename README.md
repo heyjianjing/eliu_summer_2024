@@ -15,7 +15,7 @@ Bayesian linear regression:
 * Monte Carlo integration (approximate Bayesian marginalization using `Monte Carlo integration`)
 
 Bayesian kernel regression:
-* Radial basis function (RBF kernel) (capture `local function behavior` through projection of $x$ into feature space $\phi(x)$, so we can better model nonlinearity)
+* Radial basis function (capture `local function behavior` through projection of $x$ into feature space $\phi(x)$, so we can better model nonlinearity)
 * Virtual sample via eigendecomposition (approximate $\phi(x)$ such that concept from linear case can be `retained`)
 * Bayesian optimization (utilize Bayesian kernel regression for `optimization` of (not-so-complicated) functions)
 
