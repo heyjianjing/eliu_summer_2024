@@ -10,11 +10,11 @@ Focus on
 Linear regression (notebook #01~08)
 * Concept of `loss function`: quantify how `behavior` of a function (model) deviates from the `desired` behavior we want the model to have
 * Gradient descent: maximum-likelihood (ML) or maximum-a-posteriori (MAP) `estimate of model parameters` based on training data to `minimize` loss function
-* Tweak for `classification` tasks: squared loss function and cross-entropy loss function, sigmoid function
+* Tweak for `classification` tasks: from squared loss function to cross-entropy loss function, sigmoid function
 
 Bayesian linear regression (notebook #09~13, #16)
 * Taylor series/Laplace method: approximate `posterior distribution of parameters` given data, so we can `sample` from it to get the sense of `model uncertainty`
-* Metropolis sampling: another way to `sample` from posterior distribution of parameters, which avoids needed derivation for Laplace method
+* Metropolis algorithm: another way to `sample` from posterior distribution of parameters, which avoids derivation needed for Laplace method
 * Bayesian marginalization: obtain `posterior prediction mean and uncertainty` for testing data, by taking into account all possible parameters
 * Monte Carlo method: approximate Bayesian marginalization using `Monte Carlo integration`
 
