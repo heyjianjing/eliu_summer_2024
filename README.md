@@ -24,5 +24,3 @@ Bayesian kernel regression (notebook #10, #12~17)
 * Virtual sample via eigendecomposition: approximate $\phi(x)$, so we can retain steps in Bayesian linear regression by replacing $x$ with $\phi(x)$
 * Well, no free-lunch, some additional `correction` needed when using virtual samples
 * Bayesian optimization: finally, utilize Bayesian kernel regression for `optimization` of (not-too-complicated) functions
-
-(Everything above can be done analytically using maybe 10 lines of code with Gaussian processes, but, gosh, that would be boring...)
