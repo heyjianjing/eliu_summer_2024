@@ -13,7 +13,7 @@ Linear regression (notebook #01~08)
 * Tweak for `classification` tasks: from squared loss function to cross-entropy loss function, sigmoid function
 
 Bayesian linear regression (notebook #09~13, #16)
-* Taylor series/Laplace method: approximate `posterior distribution of parameters` given data, so we can `sample` from it to get the sense of `model uncertainty`
+* Taylor series/Laplace method: approximate `posterior distribution of parameters` given data, so we can `sample` from it to get a sense of model `uncertainty`
 * Metropolis algorithm: another way to `sample` from posterior distribution of parameters, which avoids derivation needed for Laplace method
 * Bayesian marginalization: obtain `posterior prediction mean and uncertainty` for testing data, by taking into account all possible parameters
 * Monte Carlo method: approximate Bayesian marginalization using `Monte Carlo integration`
