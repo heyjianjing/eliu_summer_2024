@@ -8,7 +8,7 @@ Focus on
 * `NumPy` and `Matplotlib`
 
 `01`
-* Linear regression: fit 2 1D data points with a straight line $y=ax$
+* Linear regression: fit 2 1D data points with a straight line $y=ax(+b)$
 * Model formulation, model parameters, and matrix notation $y=A\theta$
 * Inverse of a matrix $A$
 * Compute inverse of 2x2 matrix
