@@ -1,6 +1,6 @@
 # Mini-course for Elizabeth Liu, Summer 2024
 
-#### From linear regression to Bayesian kernel regression 
+### From linear regression to Bayesian kernel regression 
 
 Focus on
 * `weight-space` view, so ideas in (Bayesian) linear regression can be retained for nonlinear case without resorting to kernel trick
