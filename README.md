@@ -17,7 +17,7 @@ Focus on
 `02`
 * Fit more 1D data points with a straight line
 * Transpose of a matrix
-* "Inverse" of non-square matrix
+* "Inverse" of nonsquare matrix
 * Analytical expression to solve $y=A\theta$
 
 `03`
