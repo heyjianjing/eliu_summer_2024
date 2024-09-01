@@ -1,25 +1,33 @@
 # Mini-course for Elizabeth Liu, Summer 2024
 
-### From linear regression to Bayesian kernel regression 
+### From linear regression to Bayesian kernel regression
 
 Focus on
 * `weight-space` view, so ideas in (Bayesian) linear regression can be retained for nonlinear case without resorting to kernel trick
 * `numerical` approaches to the extent possible
 * `NumPy` and `Matplotlib`
 
-Linear regression (notebook `#01~08`)
-* Concept of `loss function`: quantify how `behavior` of a function (model) deviates from the `desired` behavior we want the model to have
-* Gradient descent: maximum-likelihood (ML) or maximum-a-posteriori (MAP) `estimate of model parameters` based on training data to `minimize` loss function
-* Tweak for `classification` tasks: from squared loss function to cross-entropy loss function, sigmoid function
+`01`
+* Regression problem: fit 2 1D data points with a straight line
+* Model formulation, model parameters, and matrix notation
+* Inverse of a matrix
+* Compute inverse of 2x2 matrix
+* Find model parameters through inverse
 
-Bayesian linear regression (notebook `#09`, `#11`)
-* Taylor series/Laplace method: approximate `posterior distribution of parameters` given data, so we can `sample` from it to get a sense of model `uncertainty`
-* Metropolis algorithm: another way to `sample` from posterior distribution of parameters, which avoids derivation needed for Laplace method
-* Bayesian marginalization: obtain `posterior prediction mean and uncertainty` for testing data, by taking into account all possible parameters
-* Monte Carlo method: approximate Bayesian marginalization using `Monte Carlo integration`
+`02`
+* Fit more 1D data points with a straight line
+* Transpose of a matrix
+* "Inverse" of non-square matrix
 
-Bayesian kernel regression (notebook `#10`, `#12~17`)
-* Radial basis function (RBF kernel): capture function `local behavior` through projection of input $x$ into feature space $\phi(x)$, so we can better handle nonlinearity
-* Virtual sample via eigendecomposition: approximate $\phi(x)$, so we can retain steps in Bayesian linear regression by replacing $x$ with $\phi(x)$
-* Well, no free-lunch, some additional `correction` needed when using virtual samples
-* Bayesian optimization: finally, utilize Bayesian kernel regression for `optimization` of (not-too-complicated) functions
+`03`
+* Iterative numerical approach to find parameters
+* Cost or loss function to describe behavior we want our model to have
+* Derivation of gradient of loss function with respect to parameters
+* Gradient descent to iteratively find parameters that minimize loss function
+* Compare to analytical expression
+
+`04`
+* Classification problem
+* Sigmoid function to convert regression into classification
+* Derivation of gradient for classification using chain rule
+* Classification of two clusters of 1D data points
