@@ -8,9 +8,9 @@ Focus on
 * `NumPy` and `Matplotlib`
 
 `01`
-* Regression problem: fit 2 1D data points with a straight line
-* Model formulation, model parameters, and matrix notation
-* Inverse of a matrix
+* Linear regression: fit 2 1D data points with a straight line $y=ax$
+* Model formulation, model parameters, and matrix notation $y=A\theta$
+* Inverse of a matrix $A$
 * Compute inverse of 2x2 matrix
 * Find model parameters through inverse
 
@@ -18,16 +18,18 @@ Focus on
 * Fit more 1D data points with a straight line
 * Transpose of a matrix
 * "Inverse" of non-square matrix
+* Analytical expression to solve $y=A\theta$
 
 `03`
 * Iterative numerical approach to find parameters
 * Cost or loss function to describe behavior we want our model to have
-* Derivation of gradient of loss function with respect to parameters
+* Derivation of gradient of squared loss function with respect to parameters
 * Gradient descent to iteratively find parameters that minimize loss function
 * Compare to analytical expression
 
 `04`
-* Classification problem
-* Sigmoid function to convert regression into classification
-* Derivation of gradient for classification using chain rule
+* Extend linear regression to do binary classification
+* Step function for discrete output of either 1 or 0 for classification
+* Sigmoid function to approximate step function
+* Derivation of gradient of squared loss function for classification
 * Classification of two clusters of 1D data points
