@@ -3,8 +3,8 @@
 ### From linear regression to Bayesian kernel regression
 
 Focus on
-* `weight-space` view, so ideas in (Bayesian) linear regression can be retained for nonlinear case without resorting to kernel trick
-* `numerical` approaches to the extent possible
+* `Weight-space` view, so ideas in (Bayesian) linear regression can be retained for nonlinear case without resorting to kernel trick
+* `Numerical` approaches to the extent possible
 * `NumPy` and `Matplotlib`
 
 `01`
