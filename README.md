@@ -33,3 +33,8 @@ Focus on
 * Sigmoid function to approximate step function
 * Derivation of gradient of squared loss function for classification
 * Classification of two clusters of 1D data points
+
+`05`
+* Cross-entropy loss function and intuition
+* Derivation of gradient of cross-entropy loss function
+* Classification of two clusters of 1D data points
