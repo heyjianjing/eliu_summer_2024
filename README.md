@@ -38,3 +38,6 @@ Focus on
 * Cross-entropy loss function and intuition
 * Derivation of gradient of cross-entropy loss function
 * Classification of two clusters of 1D data points
+
+`06`
+* Classification of two clusters of 2D data points with cross-entropy loss function
