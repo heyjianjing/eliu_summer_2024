@@ -1,6 +1,6 @@
 # Mini-course for Elizabeth Liu, summer 2024
 
-### Part one: regression and classification
+### Part `one`: regression and classification
 
 `01`
 * Linear regression: fit two 1D data points with a straight line $y=ax (+b)$
@@ -50,4 +50,4 @@
 `08`
 * Extend RBF kernel method to classify 2D data points that are not linearly separable
 
-### Part two: uncertainty quantification and optimization
+### Part `two`: uncertainty quantification and optimization
