@@ -1,4 +1,4 @@
-# Mini-course for Elizabeth Liu, Summer 2024
+# Mini-course for Elizabeth Liu, summer 2024
 
 ### From linear regression to Bayesian kernel regression
 
