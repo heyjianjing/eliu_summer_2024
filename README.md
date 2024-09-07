@@ -36,3 +36,13 @@
 
 `06`
 * Classification of two classes of 2D data points with cross-entropy loss function
+
+`07`
+* Use linear model to handle nonlinearity
+* Projection of input into feature space
+* Global and local function behavior
+* An infeasbile way of perfectly modeling local function behavior
+* From exact matching to correlation
+* Handle correlation with radial basis function
+* Keep linear form of the model
+* Classification of 1D data points that are not linearly separable
