@@ -27,15 +27,15 @@
 * Step function for discrete output of either 1 or 0 for classification
 * Sigmoid function to approximate step function
 * Derivation of gradient of squared loss function for classification
-* Classification of two classes of 1D data points
+* Binary classification of 1D data points
 
 `05`
 * Cross-entropy loss function and intuition
 * Derivation of gradient of cross-entropy loss function
-* Classification of two classes of 1D data points
+* Binary classification of 1D data points
 
 `06`
-* Classification of two classes of 2D data points with cross-entropy loss function
+* Binary classification of 2D data points with cross-entropy loss function
 
 `07`
 * Use linear model to handle nonlinearity
@@ -45,7 +45,7 @@
 * From exact matching to correlation
 * Handle correlation with radial basis function
 * Keep linear form of the model
-* Classification of 1D data points that are not linearly separable
+* Binary classification of 1D data points that are not linearly separable
 
 `08`
 * Extend RBF kernel method to classify 2D data points that are not linearly separable
