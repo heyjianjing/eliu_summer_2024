@@ -1,11 +1,6 @@
 # Mini-course for Elizabeth Liu, summer 2024
 
-### From linear regression to Bayesian kernel regression
-
-Focus on
-* `Weight-space` view, so ideas in (Bayesian) linear regression can be retained for nonlinear case without resorting to kernel trick
-* `Numerical` approaches to the extent possible
-* `NumPy` and `Matplotlib`
+### Part one: regression and classification
 
 `01`
 * Linear regression: fit two 1D data points with a straight line $y=ax (+b)$
