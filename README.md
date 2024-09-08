@@ -54,3 +54,16 @@ Focus
 * Extend RBF kernel method to classify 2D data points that are not linearly separable
 
 ### Part `two`: uncertainty quantification and optimization
+
+`09`
+* Uncertainty in data
+* Likelihood function and essence of minimizing squared loss function
+* Expression of likelihood interpreted as prediction distribution
+* Prior distribution and maximum-a-posteriori estimator of parameter
+* Uncertainty in model induced by posterior distribution of parameter
+* Sampling from posterior distribution of parameter
+* Taylor approximation and Laplace's method
+* Posterior distribution of prediction via Bayesian marginalization
+* Approximate Bayesian marginalization via Monte Carlo integration
+* Approximate prediction distribution for MC integration using sampling
+* Uncertainty quantification of linear model over 1D data points
