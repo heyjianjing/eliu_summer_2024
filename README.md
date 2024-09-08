@@ -1,9 +1,7 @@
 # Mini-course for Elizabeth Liu, summer 2024
 
 Focus
-* Weight-space view, so we can generalize from linear regression to Bayesian kernel regression without resorting to kernel trick
-* Numerical approach
-* NumPy and Matplotlib
+* Weight-space view, numerical approach, NumPy and Matplotlib
 
 ### Part `one`: regression and classification
 
