@@ -8,27 +8,27 @@ Focus
 ### Part `one`: regression and classification
 
 `01`
-* Linear regression: fit two 1D data points with a straight line $y=ax (+b)$
-* Model formulation, model parameters, and matrix notation $y=A\theta$
-* Inverse of a matrix $A$
+* Fit two 1D data points with a straight line, or linear model
+* Model formulation, model parameters, and matrix notation
+* Matrix inverse
 * Compute inverse of 2x2 matrix
-* Find model parameters through inverse
+* Find model parameters through matrix inverse
 
 `02`
 * Fit more 1D data points with a straight line
-* Transpose of a matrix
+* Matrix transpose
 * "Inverse" of nonsquare matrix
-* Analytical expression to solve $y=A\theta$
+* Analytical solution
 
 `03`
 * Iterative numerical approach to find parameters
-* Cost or loss function to describe behavior we want our model to have
+* Loss or cost function to describe behavior we want our model to have
 * Derivation of gradient of squared loss function with respect to parameters
 * Gradient descent to iteratively find parameters that minimize loss function
-* Compare to analytical expression
+* Compare numerical solution to analytical solution
 
 `04`
-* Extend linear regression to do binary classification
+* Extend linear regression to binary classification
 * Step function for discrete output of either 1 or 0 for classification
 * Sigmoid function to approximate step function
 * Derivation of gradient of squared loss function for classification
@@ -48,7 +48,7 @@ Focus
 * Global and local function behavior
 * An infeasbile way of perfectly modeling local function behavior
 * From exact matching to correlation
-* Handle correlation with radial basis function
+* Handle correlation with radial basis function (RBF)
 * Keep linear form of the model
 * Binary classification of 1D data points that are not linearly separable
 
