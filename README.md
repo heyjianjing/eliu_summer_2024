@@ -62,7 +62,7 @@ Focus
 * Prior distribution and maximum-a-posteriori estimator of parameter
 * Uncertainty in model induced by posterior distribution of parameter
 * Sampling from posterior distribution of parameter
-* Taylor approximation (`notes_01`) and Laplace's method
+* Taylor approximation (`notes_01`) and Laplace's method (`notes_02`)
 * Posterior distribution of prediction via Bayesian marginalization
 * Approximate Bayesian marginalization via Monte Carlo integration
 * Approximate prediction distribution for MC integration using sampling
