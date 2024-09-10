@@ -1,7 +1,7 @@
 # Mini-course for Elizabeth Liu, summer 2024
 
-Focus
-* Weight-space view, numerical approach, NumPy and Matplotlib
+From linear regression to Bayesian kernel regression
+* Focus on weight-space view, numerical approach, NumPy and Matplotlib
 
 ### Part `one`: regression and classification
 
