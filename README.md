@@ -30,15 +30,15 @@ From linear regression to Bayesian kernel regression
 * Step function for discrete output of either 1 or 0 for classification
 * Sigmoid function to approximate step function
 * Derivation of gradient of squared loss function for classification
-* Binary classification of 1D data points
+* Implement binary classification of 1D data points
 
 `05`
 * Cross-entropy loss function and intuition
 * Derivation of gradient of cross-entropy loss function
-* Binary classification of 1D data points
+* Implement binary classification of 1D data points
 
 `06`
-* Binary classification of 2D data points with cross-entropy loss function
+* Implement binary classification of 2D data points with cross-entropy loss function
 
 `07`
 * Use linear model to handle nonlinearity
@@ -48,7 +48,7 @@ From linear regression to Bayesian kernel regression
 * From exact matching to correlation
 * Handle correlation with radial basis function (RBF)
 * Keep linear form of the model
-* Binary classification of 1D data points that are not linearly separable
+* Implement binary classification of 1D data points that are not linearly separable
 
 `08`
 * Extend RBF kernel method to classify 2D data points that are not linearly separable
@@ -66,7 +66,7 @@ From linear regression to Bayesian kernel regression
 * Posterior distribution of prediction via Bayesian marginalization
 * Approximate Bayesian marginalization via Monte Carlo integration
 * Approximate prediction distribution for MC integration using sampling
-* Bayesian linear regression over 1D data points
+* Implement Bayesian linear regression over 1D data points
 
 `10`
 * Extend Bayesian linear regression to Bayesian kernel regression
@@ -75,7 +75,7 @@ From linear regression to Bayesian kernel regression
 * Retain linear form with virtual samples for nonlinear regression
 * Vector form of Taylor approximation for sampling from posterior distribution of parameters
 * Correction step for prediction uncertainty (`notes_04`, `notes_05`)
-* Bayesian kernel regression over 1D data points
+* Implement Bayesian kernel regression over 1D data points
 
 `11`
 * Revisit Bayesian linear regression from `09`
@@ -90,4 +90,9 @@ From linear regression to Bayesian kernel regression
 * Package algorithm using Python Class
 * Vectorize (`notes_07`) kernel function and Monte Carlo integration in NumPy
 * Avoid computation of full kernel matrix for testing data points
-* Evaluate Bayesian kernel regression over 250,000 1D testing data points under 30 seconds
+* Evaluate over 250,000 1D testing data points using Bayesian kernel regression in 30 seconds
+
+`14`
+* Use Bayesian kernel regression from `13` to optimize underlying function
+* Lower confidence bound and balance between exploitation and exploreation in optimization
+* Implement Bayesian optimization to minimize a 1D function
