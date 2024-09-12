@@ -59,9 +59,9 @@ From linear regression to Bayesian kernel regression
 * Uncertainty in data
 * Likelihood function and essence of minimizing squared loss function
 * Expression of likelihood interpreted as prediction distribution
-* Prior distribution and maximum-a-posteriori estimator of parameter
-* Uncertainty in model induced by posterior distribution of parameter
-* Sampling from posterior distribution of parameter
+* Prior distribution and maximum-a-posteriori estimator of parameters
+* Uncertainty in model induced by posterior distribution of parameters
+* Sampling from posterior distribution of parameters
 * Taylor approximation (`notes_01`) and Laplace's method (`notes_02`)
 * Posterior distribution of prediction via Bayesian marginalization
 * Approximate Bayesian marginalization via Monte Carlo integration
@@ -76,3 +76,7 @@ From linear regression to Bayesian kernel regression
 * Vector form of Taylor approximation for sampling from posterior distribution of parameters
 * Correction step for prediction uncertainty (`notes_04`, `notes_05`)
 * Bayesian kernel regression over 1D data points
+
+`11`
+* Revisit Bayesian linear regression from `09`
+* Replace Taylor approximation and Laplace's method by Metropolis algorithm to sample from posterior distribution of parameters
