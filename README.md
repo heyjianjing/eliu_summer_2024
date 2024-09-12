@@ -66,7 +66,7 @@ From linear regression to Bayesian kernel regression
 * Posterior distribution of prediction via Bayesian marginalization
 * Approximate Bayesian marginalization via Monte Carlo integration
 * Approximate prediction distribution for MC integration using sampling
-* Uncertainty quantification of linear model over 1D data points
+* Bayesian linear regression over 1D data points
 
 `10`
 * Extend Bayesian linear regression to Bayesian kernel regression
@@ -75,4 +75,4 @@ From linear regression to Bayesian kernel regression
 * Retain linear form with virtual samples for nonlinear regression
 * Vector form of Taylor approximation for sampling from posterior distribution of parameters
 * Correction step for prediction uncertainty (`notes_04`, `notes_05`)
-* Uncertainty quantification of nonlinear model over 1D data points
+* Bayesian kernel regression over 1D data points
