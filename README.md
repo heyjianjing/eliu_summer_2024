@@ -84,3 +84,10 @@ From linear regression to Bayesian kernel regression
 `12`
 * Revisit Bayesian kernel regression from `10`
 * Replace Taylor approximation and Laplace's method by Metropolis algorithm
+
+`13`
+* Organize and speed up Bayesian kernel regression from `12`
+* Package algorithm using Python Class
+* Vectorize (`notes_07`) kernel function and Monte Carlo integration in NumPy
+* Avoid computation of full kernel matrix for testing data points
+* Evaluate Bayesian kernel regression over 250,000 1D testing data points
