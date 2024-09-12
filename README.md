@@ -90,7 +90,7 @@ From linear regression to Bayesian kernel regression
 * Package algorithm using Python Class
 * Vectorize (`notes_07`) kernel function and Monte Carlo integration in NumPy
 * Avoid computation of full kernel matrix for testing data points
-* Evaluate over 250,000 1D testing data points using Bayesian kernel regression in 30 seconds (on a personal laptop)
+* Evaluate over 250,000 1D testing data points using Bayesian kernel regression in 30 seconds (on a 2020 personal laptop)
 
 `14`
 * Use Bayesian kernel regression from `13` to optimize the underlying (but unknown) function that generates our data
