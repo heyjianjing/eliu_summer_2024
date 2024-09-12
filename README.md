@@ -93,6 +93,6 @@ From linear regression to Bayesian kernel regression
 * Evaluate over 250,000 1D testing data points using Bayesian kernel regression in 30 seconds
 
 `14`
-* Use Bayesian kernel regression from `13` to optimize underlying function
+* Use Bayesian kernel regression from `13` to optimize the underlying (but unknown) function that generates data
 * Lower confidence bound and balance between exploitation and exploreation in optimization
 * Implement Bayesian optimization to minimize a 1D function
