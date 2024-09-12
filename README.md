@@ -79,7 +79,7 @@ From linear regression to Bayesian kernel regression
 
 `11`
 * Revisit Bayesian linear regression from `09`
-* Replace Taylor approximation and Laplace's method by Metropolis algorithm to sample from posterior distribution of parameters
+* Replace Taylor approximation and Laplace's method by Metropolis algorithm (`notes_06`) to sample from posterior distribution of parameters
 
 `12`
 * Revisit Bayesian kernel regression from `10`
