@@ -96,3 +96,9 @@ From linear regression to Bayesian kernel regression
 * Use Bayesian kernel regression from `13` to optimize the underlying (but unknown) function that generates our data
 * Lower confidence bound and the balance between exploitation and exploration in optimization
 * Implement Bayesian optimization to minimize a 1D function
+
+`15`
+* Extend Bayesian kernel regression from `13` to handling 2D case
+
+`16`
+* Implement Bayesian optimization to minimize a 2D function, using Bayesian kernel regression from `15`
