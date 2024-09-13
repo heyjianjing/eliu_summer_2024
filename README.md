@@ -98,7 +98,7 @@ From linear regression to Bayesian kernel regression
 * Implement Bayesian optimization to minimize a 1D function
 
 `15`
-* Extend Bayesian kernel regression from `13` to handling 2D case
+* Extend Bayesian kernel regression from `13` to handle 2D case
 
 `16`
 * Implement Bayesian optimization to minimize a 2D function, using Bayesian kernel regression from `15`
