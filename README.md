@@ -111,4 +111,4 @@ From linear regression to Bayesian kernel regression
 * Implement Bayesian kernel regression in `13` with random Fourier features to avoid correction of prediction variance
 
 `18`
-* Implement Bayesian kernel regression in `17` to minimize a 1D function
+* Implement Bayesian kernel regression in `17` to minimize a 1D function with Bayesian optimization
