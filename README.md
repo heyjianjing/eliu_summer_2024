@@ -107,7 +107,7 @@ From linear regression to Bayesian kernel regression
 
 `17`
 * Virtual samples from eigendecomposition is data-dependent, causing issues
-* Concept of random Fourier features as data-independent virtual samples
+* Concept of random Fourier features (`notes_08`) as data-independent virtual samples
 * Implement Bayesian kernel regression in `13` with random Fourier features to avoid correction of prediction variance
 
 `18`
