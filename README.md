@@ -3,7 +3,7 @@
 From linear regression to Bayesian kernel regression
 * Focus on weight-space view, numerical approach (to the extent possible), NumPy and Matplotlib
 
-### Part `one`: regression and classification
+### Part `one`: regression
 
 `01`
 * Fit two 1D data points with a straight line, or linear model
@@ -53,7 +53,7 @@ From linear regression to Bayesian kernel regression
 `08`
 * Extend RBF kernel method to classify 2D data points that are not linearly separable
 
-### Part `two`: uncertainty quantification and optimization
+### Part `two`: uncertainty quantification
 
 `09`
 * Uncertainty in data
