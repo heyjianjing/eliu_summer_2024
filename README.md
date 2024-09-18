@@ -1,4 +1,4 @@
-# Introductory machine learning for Elizabeth Liu for Elizabeth Liu, summer 2024
+# Introductory machine learning for Elizabeth Liu, summer 2024
 
 From linear regression to Bayesian kernel regression
 * Focus on weight-space view, numerical approach (to the extent possible), NumPy and Matplotlib
