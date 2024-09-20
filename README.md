@@ -103,7 +103,7 @@ From linear regression to Bayesian kernel regression
 `16`
 * Implement Bayesian optimization to minimize a 2D function, using Bayesian kernel regression from `15`
 
-### Part `three`: data-independent virtual samples
+### Part `three`: random Fourier features
 
 `17`
 * Problem with data-dependent virtual samples from eigendecomposition
