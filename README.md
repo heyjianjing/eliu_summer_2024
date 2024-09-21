@@ -109,6 +109,3 @@ From linear regression to Bayesian kernel regression
 * Problem with data-dependent virtual samples from eigendecomposition
 * Concept of random Fourier features (`notes_08`) as data-independent virtual samples
 * Implement Bayesian kernel regression from `13` using random Fourier features to avoid correction of prediction variance
-
-`18`
-* Implement Bayesian kernel regression from `17` to minimize a 1D function with Bayesian optimization
