@@ -1,4 +1,4 @@
-# Introductory machine learning for Elizabeth Liu
+# Introductory machine learning
 
 From linear regression to Bayesian kernel regression
 * Focus on weight-space view, numerical approach (to the extent possible), NumPy and Matplotlib
@@ -109,3 +109,4 @@ From linear regression to Bayesian kernel regression
 * Problem with data-dependent virtual samples from eigendecomposition
 * Concept of random Fourier features (`notes_08`) as data-independent virtual samples
 * Implement Bayesian kernel regression from `13` using random Fourier features to avoid correction of prediction variance
+* Issues with RFF
