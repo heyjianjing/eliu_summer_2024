@@ -1,7 +1,7 @@
 # Introductory machine learning
 
 From linear regression to Bayesian kernel regression
-* Focus on weight-space view, numerical approach (to the extent possible), NumPy and Matplotlib
+* Focus on weight-space view (that is, linear form), numerical approach (to the extent possible), NumPy and Matplotlib
 
 ### Part `one`: regression
 
@@ -103,7 +103,7 @@ From linear regression to Bayesian kernel regression
 `16`
 * Implement Bayesian optimization to minimize a 2D function, using Bayesian kernel regression from `15`
 
-### Part `three`: how far can we go with linear formulation?
+### Part `three`: how far can we go with weight-space view?
 
 `17`
 * Problem with data-dependent virtual samples from eigendecomposition
