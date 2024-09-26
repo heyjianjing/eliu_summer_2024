@@ -1,7 +1,7 @@
 # Introductory machine learning
 
 From linear regression to Bayesian kernel regression
-* Focus on weight-space view (that is, linear form), numerical approach (to the extent possible), NumPy and Matplotlib
+* Focus on weight-space view (linear form), numerical approach (to the extent possible), NumPy and Matplotlib
 
 ### Part `one`: regression
 
