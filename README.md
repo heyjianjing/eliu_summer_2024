@@ -24,6 +24,7 @@ From linear regression to Bayesian kernel regression
 * Derivation of gradient of squared loss function with respect to parameters
 * Gradient descent to iteratively find parameters that minimize loss function
 * Compare numerical solution to analytical solution
+* Choice of loss function (`notes_01`)
 
 `04`
 * Extend linear regression to binary classification
@@ -62,7 +63,7 @@ From linear regression to Bayesian kernel regression
 * Prior distribution and maximum-a-posteriori estimator of parameters
 * Uncertainty in model induced by posterior distribution of parameters
 * Sampling from posterior distribution of parameters
-* Taylor approximation (`notes_01`) and Laplace's method (`notes_02`)
+* Taylor approximation (`notes_02`) and Laplace's method (`notes_03`)
 * Posterior distribution of prediction via Bayesian marginalization
 * Approximate Bayesian marginalization via Monte Carlo integration
 * Approximate prediction distribution for MC integration using sampling
@@ -71,15 +72,15 @@ From linear regression to Bayesian kernel regression
 `10`
 * Extend Bayesian linear regression to Bayesian kernel regression
 * Kernel function and correlation preservation
-* Virtual samples through eigendecomposition (`notes_03`)
+* Virtual samples through eigendecomposition (`notes_04`)
 * Retain linear form with virtual samples for nonlinear regression
 * Vector form of Taylor approximation for sampling from posterior distribution of parameters
-* Correction step for prediction uncertainty (`notes_04`, `notes_05`)
+* Correction step for prediction uncertainty (`notes_05`, `notes_06`)
 * Implement Bayesian kernel regression over 1D data points
 
 `11`
 * Revisit Bayesian linear regression from `09`
-* Replace Taylor approximation and Laplace's method by Metropolis algorithm (`notes_06`) to sample from posterior distribution of parameters
+* Replace Taylor approximation and Laplace's method by Metropolis algorithm (`notes_07`) to sample from posterior distribution of parameters
 
 `12`
 * Revisit Bayesian kernel regression from `10`
@@ -88,7 +89,7 @@ From linear regression to Bayesian kernel regression
 `13`
 * Organize and speed up Bayesian kernel regression from `12`
 * Package algorithm using Python Class
-* Vectorize (`notes_07`) kernel function and Monte Carlo integration in NumPy
+* Vectorize (`notes_08`) kernel function and Monte Carlo integration in NumPy
 * Avoid computation of full kernel matrix for testing data points
 * Evaluate over 250,000 1D testing data points using Bayesian kernel regression in 30 seconds
 
@@ -107,5 +108,5 @@ From linear regression to Bayesian kernel regression
 
 `17`
 * Problem with data-dependent virtual samples from eigendecomposition
-* Concept of random Fourier features (`notes_08`) as data-independent virtual samples
+* Concept of random Fourier features (`notes_09`) as data-independent virtual samples
 * Implement Bayesian kernel regression from `13` using random Fourier features to avoid correction of prediction variance
