@@ -25,7 +25,7 @@ From linear regression to Bayesian kernel regression
 * Derivation of gradient of squared loss function with respect to parameters
 * Gradient descent to iteratively find parameters that minimize loss function
 * Compare numerical solution to analytical solution
-* Gradient descent as minimizing regularized 1st Taylor approximation (`notes_02`) of loss function
+* Gradient descent as minimizing regularized 1st order Taylor approximation (`notes_02`) of loss function
 
 `04`
 * Extend linear regression to binary classification
