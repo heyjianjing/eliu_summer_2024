@@ -55,7 +55,7 @@ From linear regression to Bayesian kernel regression
 `08`
 * Extend RBF kernel method to classify 2D data points that are not linearly separable
 
-### Part `two`: uncertainty quantification
+### Part `two`: uncertainty
 
 `09`
 * Uncertainty in data
