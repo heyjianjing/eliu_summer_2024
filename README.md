@@ -15,8 +15,8 @@ From linear regression to Bayesian kernel regression
 `02`
 * Fit more 1D data points with a straight line
 * Matrix transpose
-* "Inverse" of nonsquare matrix
 * Analytical solution
+* Geometric interpretation of analytical solution as projection
 
 `03`
 * Iterative numerical approach to find parameters
