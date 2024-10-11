@@ -21,10 +21,11 @@ From linear regression to Bayesian kernel regression
 `03`
 * Iterative numerical approach to find parameters
 * Loss or cost function to describe behavior we want our model to have
+* Choice of loss function (`notes_01`)
 * Derivation of gradient of squared loss function with respect to parameters
 * Gradient descent to iteratively find parameters that minimize loss function
 * Compare numerical solution to analytical solution
-* Choice of loss function (`notes_01`)
+* Gradient descent as minimizing a regularized 1st Taylor approximation (`notes_02`) of loss function
 
 `04`
 * Extend linear regression to binary classification
