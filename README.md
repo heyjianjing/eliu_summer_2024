@@ -74,7 +74,6 @@ From linear regression to Bayesian kernel regression
 * Extend Bayesian linear regression to Bayesian kernel regression
 * Kernel function and correlation preservation
 * Virtual samples through eigendecomposition (`notes_04`)
-* A simple numerical algorithm to compute eigenvalues and eigenvectors of symmetric matrices (`notes_04`)
 * Retain linear form with virtual samples for nonlinear regression
 * Vector form of Taylor approximation for sampling from posterior distribution of parameters
 * Correction step for prediction uncertainty (`notes_05`, `notes_06`)
