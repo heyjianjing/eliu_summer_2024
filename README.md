@@ -127,7 +127,7 @@ From linear regression to Bayesian kernel regression
 `notes_03`
 * Sampling from a distribution
 * Laplace's method for sampling based on 2nd order Taylor approximation of distribution
-* Finite difference to compute second derivative
+* Use finite difference to compute second derivatives
 
 `notes_04`
 * Concept of eigenvalues and eigenvectors
@@ -142,10 +142,10 @@ From linear regression to Bayesian kernel regression
 * General approach to compute all eigenvalues and eigenvectors for symmetric matrices based on power iterations
 
 `notes_05`
-* Transformation of data using RBF kernel is infinite-dimensional
+* Transformation of data induced by RBF kernel is infinite-dimensional
 
 `notes_06`
-* Correction of posterior prediction covariance due to finite-dimensional approximation of infinite-dimensional transformation under RBF kernel
+* Correction of posterior prediction variance due to finite-dimensional approximation of infinite-dimensional transformation under RBF kernel
 
 `notes_07`
 * Metropolis algorithm for sampling
