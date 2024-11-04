@@ -112,3 +112,58 @@ From linear regression to Bayesian kernel regression
 * Problem with data-dependent virtual samples from eigendecomposition
 * Concept of random Fourier features (`notes_09`) as data-independent virtual samples
 * Implement Bayesian kernel regression from `13` using random Fourier features to avoid correction of prediction variance
+
+### Notes
+
+`notes_01`
+* Squared loss function and influence of outliers
+* Absolute value loss function is less sensitive to outliers
+* Comparison of common loss functions (squared, absolute value, deadzone, Huber)
+
+`notes_02`
+* Taylor approximation of functions with scalar input
+* Taylor approximation of functions with vector input
+
+`notes_03`
+* Sampling from a distribution
+* Laplace's method for sampling based on 2nd order Taylor approximation of distribution
+* Finite difference to compute second derivative
+
+`notes_04`
+* Concept of eigenvalues and eigenvectors
+* Compute eigenvalues and eigenvectors using definition
+* Diagonalization of a matrix using eigenvalues and eigenvectors
+* Kernel matrix is symmetric
+* Symmetric matrices have real eigenvalues and orthonormal eigenvectors
+* Equivalence between transpose and inverse for orthonormal eigenvectors
+* Method of power iterations to numerically compute dominant eigenvalue and corresponding eigenvector
+* Rayleigh quotient
+* Algorithm convergence
+* General approach to compute all eigenvalues and eigenvectors for symmetric matrices based on power iterations
+
+`notes_05`
+* Transformation of data using RBF kernel is infinite-dimensional
+
+`notes_06`
+* Correction of posterior prediction covariance due to finite-dimensional approximation of infinite-dimensional transformation under RBF kernel
+
+`notes_07`
+* Metropolis algorithm for sampling
+* Proposal distribution to generate new sample candidates
+* Acceptance rate
+
+`notes_08`
+* Vectorization and broadcasting in NumPy
+* Broadcasting rules
+
+`notes_09`
+* Bochner's theorem and random Fourier features to approximate infinite-dimensional transformation under RBF kernel
+* Matrix notation for computation
+
+`notes_10`
+* Hamiltonian Monte-Carlo (HMC) sampling
+* Euler-Lagrange equation
+* Lagrangian mechanics
+* Hamiltonian equations
+* Leapfrog method
+* HMC and Metropolis algorithm
