@@ -130,15 +130,13 @@ From linear regression to Bayesian kernel regression
 
 `notes_04`
 * Concept of eigenvalues and eigenvectors
-* Compute eigenvalues and eigenvectors using definition
+* Compute eigenvalues and eigenvectors based on definition
 * Diagonalization of a matrix using eigenvalues and eigenvectors
 * Kernel matrix is symmetric
 * Symmetric matrices have real eigenvalues and orthonormal eigenvectors
 * Equivalence between transpose and inverse for orthonormal eigenvectors
-* Method of power iterations to numerically compute dominant eigenvalue and corresponding eigenvector
-* Rayleigh quotient
-* Algorithm convergence
-* General approach to compute all eigenvalues and eigenvectors for symmetric matrices based on power iterations
+* Power iterations and Rayleigh quotient to numerically compute dominant eigenvalue and eigenvector
+* Generalize power iterations to compute all eigenvalues and eigenvectors for symmetric matrices
 
 `notes_05`
 * Transformation of data induced by RBF kernel is infinite-dimensional
