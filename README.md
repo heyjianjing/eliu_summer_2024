@@ -112,7 +112,7 @@ From linear regression to Bayesian kernel regression
 * Random features
 * Random Fourier features (RFFs)
 * Matrix notation
-* Dot product of RFFs to approximate RBF kernel function
+* Dot product of RFFs as approximation to RBF kernel function
   
 ### Notes
 
