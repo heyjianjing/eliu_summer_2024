@@ -105,10 +105,10 @@ From linear regression to Bayesian kernel regression
 `16`
 * Implement Bayesian optimization to minimize a 2D function, using Bayesian kernel regression from `15`
 
-### Part `three`: how far can we go with weight-space view?
+### Part `three`: look for `better` virtual samples
 
 `17`
-* Need to for data independent virtual samples
+* Need for data independent virtual samples
 * Random features
 * Random Fourier features (RFFs)
 * Matrix notation
