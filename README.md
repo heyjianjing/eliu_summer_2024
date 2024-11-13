@@ -108,10 +108,12 @@ From linear regression to Bayesian kernel regression
 ### Part `three`: how far can we go with weight-space view?
 
 `17`
-* Problem with data-dependent virtual samples from eigendecomposition
-* Concept of random Fourier features (`notes_09`) as data-independent virtual samples
-* Implement Bayesian kernel regression from `13` using random Fourier features to avoid correction of prediction variance
-
+* Need to for data independent virtual samples
+* Random features
+* Random Fourier features (RFFs)
+* Matrix notation
+* Dot product of RFFs to approximate RBF kernel function
+  
 ### Notes
 
 `notes_01`
@@ -154,10 +156,6 @@ From linear regression to Bayesian kernel regression
 * Broadcasting rules
 
 `notes_09`
-* Bochner's theorem and random Fourier features to approximate infinite-dimensional transformation under RBF kernel
-* Matrix notation for computation
-
-`notes_10`
 * Hamiltonian Monte-Carlo (HMC) sampling
 * Euler-Lagrange equation
 * Lagrangian mechanics
