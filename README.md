@@ -105,7 +105,7 @@ From linear regression to Bayesian kernel regression
 `16`
 * Implement Bayesian optimization to minimize a 2D function, using Bayesian kernel regression from `15`
 
-### Part `three`: look for `better` virtual samples
+### Part `three`: look for better virtual samples
 
 `17`
 * Need for data independent virtual samples
