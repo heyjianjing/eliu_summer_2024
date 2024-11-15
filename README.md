@@ -117,7 +117,7 @@ From linear regression to Bayesian kernel regression
 `18`
 * Nystrom method to approximate (potentially large) kernel matrix with small sub-portion
 * Random sampling to construct sub-portion with eigen-structure similar to full kernel matrix
-* Virtual sample based on reduced eigendecomposition of sub-portion
+* Virtual sample based on reduced eigendecomposition of sub-portion (`notes_04`)
   
 ### Notes
 
