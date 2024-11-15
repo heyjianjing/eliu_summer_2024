@@ -139,6 +139,7 @@ From linear regression to Bayesian kernel regression
 * Concept of eigenvalues and eigenvectors
 * Compute eigenvalues and eigenvectors based on definition
 * Diagonalization of a matrix using eigenvalues and eigenvectors
+* Diagonalization simplifies many computations, such as power and exponential
 * Kernel matrix is symmetric
 * Symmetric matrices have real eigenvalues and orthonormal eigenvectors
 * Equivalence between transpose and inverse for orthonormal eigenvectors
