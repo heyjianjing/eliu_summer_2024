@@ -154,7 +154,7 @@ From linear regression to Bayesian kernel regression
 `notes_07`
 * Metropolis algorithm for sampling
 * Proposal distribution to generate new sample candidates
-* Acceptance rate
+* Acceptance rate in Metropolis
 
 `notes_08`
 * Vectorization and broadcasting in NumPy
